@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'castleio-flask',
   packages = ['castleio_flask'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.0.1',
   description = 'A Flask client for Castle.io',
   author = 'Luke Davis',
   author_email = 'lucaswadedavis@gmail.com',

@@ -2,7 +2,7 @@ from flask import Flask
 from flask import render_template
 from flask import request
 
-from castleio_flask.castle import Castle
+from castle_flask.castle import Castle
 
 app = Flask(__name__)
 
